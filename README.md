@@ -6,6 +6,8 @@ This project saw me attempt to recreate a Yelp website.
 
 zikreyelp.netlify.com
 
+![yelp page](yelpy.png)
+
 ## How It Was Made:
 
 ## Tech Used:
